@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python /media/sf_VM/Code/Other/Python/Desktop_Changer/InternetScraperThing.py &
